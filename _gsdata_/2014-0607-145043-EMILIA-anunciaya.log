@@ -1,0 +1,12 @@
+2014-06-07 14:50:43: -- anunciaya: ANALYSIS started by On File Change 1st Full Analyze on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 14:50:43: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 14:50:44: L: Files: 31 (excluded 5). Folders: 11 (excluded 1). Z: \\192.168.0.103\htdocs NTFS, Free: 122 GB, Total: 186 GB
+2014-06-07 14:50:44: R: Files: 113 (excluded 5). Folders: 17 (excluded 1). C: NTFS, Free: 395 GB, Total: 650 GB
+2014-06-07 14:50:44: Changes: 90, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-06-07 14:50:44: Left to Right: Copy File: 2 
+2014-06-07 14:50:44: Right to Left: Copy File: 88 
+2014-06-07 14:50:44: -- Analysis Completed. Time 00:00:01, Speed: 136 files/s
+2014-06-07 14:50:44: == anunciaya: SYNC started by On File Change 1st Full Analyze on 'EMILIA'
+2014-06-07 14:50:44: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 14:50:44: 66% (90 / 136) files have changed, more than a threshold of 30%. So the job will not synchronize automatically.
+2014-06-07 14:50:44: 

@@ -1,0 +1,13 @@
+2014-06-07 16:01:50: -- anunciaya: ANALYSIS started by Periodic Timer on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 16:01:50: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 16:01:51: L: Files: 125 (excluded 9). Folders: 21 (excluded 1). Z: \\192.168.0.103\htdocs NTFS, Free: 122 GB, Total: 186 GB
+2014-06-07 16:01:51: R: Files: 126 (excluded 5). Folders: 21 (excluded 1). C: NTFS, Free: 395 GB, Total: 650 GB
+2014-06-07 16:01:51: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-06-07 16:01:51: Left to Right: Copy File: 1 
+2014-06-07 16:01:51: -- Analysis Completed. Time 00:00:02, Speed: 78 files/s
+2014-06-07 16:01:51: == anunciaya: SYNC started by Periodic Timer on 'EMILIA'
+2014-06-07 16:01:51: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 16:01:51: Copy Over 'Z:/anunciosbolivar/views/pubanuncio/frmprocanun.php' -> 'C:/wamp/www/anunciosbolivar/views/pubanuncio/frmprocanun.php'
+2014-06-07 16:01:51: Items Synced OK: 1, Errors: 0
+2014-06-07 16:01:51: == Sync Completed. Time: 00:00:00, Speed: 0 bytes/s
+2014-06-07 16:01:51: 

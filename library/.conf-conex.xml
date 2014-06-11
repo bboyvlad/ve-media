@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conexion-srvdb>
+	<driver>mysql</driver>
+	<srv>localhost</srv>
+	<userdb>root</userdb>
+	<passdb></passdb>
+	<database>anunciosbolivar</database>
+</conexion-srvdb>

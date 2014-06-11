@@ -1,0 +1,15 @@
+2014-06-07 22:13:13: -- anunciaya: ANALYSIS started by User on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 22:13:13: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 22:13:14: L: Files: 127 (excluded 10). Folders: 21 (excluded 1). Z: \\192.168.0.103\htdocs NTFS, Free: 118 GB, Total: 186 GB
+2014-06-07 22:13:14: R: Files: 128 (excluded 5). Folders: 21 (excluded 1). C: NTFS, Free: 397 GB, Total: 650 GB
+2014-06-07 22:13:14: Changes: 2, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-06-07 22:13:14: Left to Right: Copy File: 1 Delete File: 1 
+2014-06-07 22:13:14: -- Analysis Completed. Time 00:00:01, Speed: 160 files/s
+2014-06-07 22:13:14: 
+2014-06-07 22:13:17: == anunciaya: SYNC started by User on 'EMILIA'
+2014-06-07 22:13:17: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 22:13:17: Delete File 'C:/wamp/www/anunciosbolivar/Docs/anunciosbolivar.sql'
+2014-06-07 22:13:17: Copy New 'Z:/anunciosbolivar/Docs/anunciosbolivar(1).sql' -> 'C:/wamp/www/anunciosbolivar/Docs/anunciosbolivar(1).sql'
+2014-06-07 22:13:17: Items Synced OK: 2, Errors: 0
+2014-06-07 22:13:17: == Sync Completed. Time: 00:00:00, Speed: 0 bytes/s
+2014-06-07 22:13:18: 

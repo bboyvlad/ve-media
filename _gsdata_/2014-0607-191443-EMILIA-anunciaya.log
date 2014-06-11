@@ -1,0 +1,16 @@
+2014-06-07 19:14:43: -- anunciaya: ANALYSIS started by On File Change, After Delay on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 19:14:43: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 19:14:43: Change in: C:/wamp/www/anunciosbolivar/views/pubanuncio/frmautentica.php~RFb5a61ff.TMP
+2014-06-07 19:14:43: Change in: C:/wamp/www/anunciosbolivar/views/pubanuncio/.subl772.tmp
+2014-06-07 19:14:43: Change in: C:/wamp/www/anunciosbolivar/views/pubanuncio/frmautentica.php~RFb5a798e.TMP
+2014-06-07 19:14:43: Change in: C:/wamp/www/anunciosbolivar/views/pubanuncio/frmautentica.php
+2014-06-07 19:14:43: Change in: C:/wamp/www/anunciosbolivar/views/pubanuncio/.sublbb9.tmp
+2014-06-07 19:14:43: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-06-07 19:14:43: Right to Left: Copy File: 1 
+2014-06-07 19:14:43: -- Analysis Completed. Time 00:00:00, Speed: Many files/s
+2014-06-07 19:14:43: == anunciaya: SYNC started by On File Change, After Delay on 'EMILIA'
+2014-06-07 19:14:43: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 19:14:43: Copy Over 'C:/wamp/www/anunciosbolivar/views/pubanuncio/frmautentica.php' -> 'Z:/anunciosbolivar/views/pubanuncio/frmautentica.php'
+2014-06-07 19:14:43: Items Synced OK: 1, Errors: 0
+2014-06-07 19:14:43: == Sync Completed. Time: 00:00:00, Speed: 0 bytes/s
+2014-06-07 19:14:43: 

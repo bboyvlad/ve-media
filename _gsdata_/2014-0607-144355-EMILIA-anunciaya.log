@@ -1,0 +1,13 @@
+2014-06-07 14:43:55: -- anunciaya: ANALYSIS started by Periodic Timer on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 14:43:55: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked
+2014-06-07 14:43:55: L: State file does not exist: Z:/anunciosbolivar/_gsdata_/_file_state_v4._gs
+2014-06-07 14:43:55: L: Files: 31 (excluded 5). Folders: 11 (excluded 1). Z: \\192.168.0.103\htdocs NTFS, Free: 122 GB, Total: 186 GB
+2014-06-07 14:43:55: R: State file does not exist: C:/wamp/www/anunciosbolivar/_gsdata_/_file_state_v4._gs
+2014-06-07 14:43:55: R: Files: 31 (excluded 5). Folders: 11 (excluded 1). C: NTFS, Free: 395 GB, Total: 650 GB
+2014-06-07 14:43:55: Changes: 0, Conflicts: 0, CopyTime: 0, CopyState: 0/42, Errors: 0
+2014-06-07 14:43:55: -- Analysis Completed. Time 00:00:00, Speed: Many files/s
+2014-06-07 14:43:55: == anunciaya: SYNC started by Periodic Timer on 'EMILIA'
+2014-06-07 14:43:55: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked
+2014-06-07 14:43:55: Items Synced OK: 42, Errors: 0
+2014-06-07 14:43:55: == Sync Completed. Time: 00:00:00, Speed: 0 bytes/s
+2014-06-07 14:43:55: 

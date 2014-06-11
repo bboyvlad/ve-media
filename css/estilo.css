@@ -1,0 +1,298 @@
+html,body{
+	width: 100%; 
+	height: 100%; 
+	margin: 0; 
+	padding: 0; 
+	font-family: tahoma;
+}
+a{
+	text-decoration: none;
+}
+.clear{
+	clear:both;
+}
+
+header>h1{
+	font-size: 14pt;
+}
+.mnuli{
+	margin-top: -1%;
+	list-style: none;
+	width: 100%;
+	height:5%;
+	background-color: #009DB5;
+}
+nav>ul>li>a{
+	float: left;
+	padding-left: 2%;
+}
+#li1>a{
+	float: left;
+	margin-left: -3%;
+}
+#li1>a>img{
+	width: 100%;
+}
+
+#li2>a{
+	padding-top: 13.5%;
+	float: right;
+	background-color: #00D3EF;
+	height:55px;
+	max-height:55px;
+	font-size: 11pt;
+}
+
+#li2>a:hover{
+	color: white;
+}
+#li3>a{
+	padding-top: 17.5%;
+	background-color: #00D3EF;
+	float: right;
+	text-align: center;
+	height:55px;
+	max-height:55px;
+	font-size: 11pt;
+
+}
+#li3>a:hover{
+	color: white;
+}
+#li4>a{
+	float: right;
+	margin-right: 3%;
+	background-color: #00D3EF;
+	height:55px;
+	max-height:55px;
+
+}
+#li4>a>img{
+	margin-top: 5px;
+	margin-right: 1px;
+	width: 20px;
+	height: 20px;
+}
+.busqueda{
+	margin-top: -1.2%;
+	width: 100%;
+	height: 15%;
+}
+#txtbuscar{
+	
+	border-style: solid;
+	border-color: #00D3EF;
+
+}
+#btn_encontrar{
+	border-style: solid;
+	border-color: #00D3EF;
+	background-color: #00D3EF;
+
+}
+#btn_encontrar:hover{
+	background-color: #009DB5;
+	border-color: #009DB5;
+	color: white;
+}
+#categorias{
+	margin-top: 5%;
+	margin-top: 70px !important;
+    position: relative;
+
+}
+#categorias div{
+	max-width: 5%;
+	min-width: 34px !important;
+	float: left;
+
+}
+
+.frmanuncios{
+	height: auto !important;
+	border-style: solid;
+	border-color: #009DB5;
+	min-width: 340px !important;
+}
+.frmanuncios>h2{
+	margin-left: 3%;
+}
+#descripcionanuncio{
+
+}
+#despub{
+	border-style: solid;
+.imagenesauncio
+}
+.textbox{
+	border-style: solid;
+
+}
+.combobox{
+	border-style: solid;
+	margin-left: 1.5%;
+}
+#montobox{
+	border-style: solid;
+	margin-left: 1.5%;
+}
+#fechanuncio{
+	float: right;
+	border-style: solid;
+	margin-left: 1%;
+	margin-right: 5%;
+	
+	font-style: bold;
+}
+#lblfechanuncio{
+	float: right;
+}
+.frmbotones{
+	border-style: solid;
+	border-color: #009DB5;
+	background-color: #009DB5;
+	font-size: 10pt;
+	width: 20%;
+	height: 10%;
+	color: white;
+}
+.frmbotones:hover{
+	background-color: #00D3EF;
+	border-color: #00D3EF;
+	color: black;
+}
+#btn_anunciar{
+	margin-left: 38%;
+	font-size: 100%;
+}
+#tituloanuncio{
+	height: 10%;
+	font-size: 90%;
+}
+#rcara{
+	font-size: 70%;
+	margin-left: 5%;
+}
+#numcaracter{
+	font-size: 75%;
+	margin-top: -6%;
+	margin-left: 53%;
+}
+.imagenesauncio{
+	border-style: solid;
+	height: 48%;
+	border-color: #D4D0C8;
+}
+
+.miniaturaimg{
+float: left;
+margin-top: -6%;
+border-style: solid;
+margin-right: 2%;
+margin-left: 2.4%;
+}
+#chpre{
+	font-size: 80%;
+}
+.check01{
+	margin-left: -.5%;
+}
+.mae_anuncios{
+	margin-left: 5%;
+	width: 90%;
+	height: 90%;
+}
+.det_anuncios{
+	margin-top: .5%;
+	margin-left: .5%;
+	width: 15%;
+	height: 25%;
+	border-style: solid;
+	border: 2px solid #D4D0C8; 
+	float: left;
+	min-width: 162px !important;
+}
+.det_anuncios:hover{
+	border: 2px solid #009EB3;
+	cursor: pointer;
+}
+.lbl_anuncio{
+	margin-left: .6%;
+	font-size: 70%;
+}
+.lbl_precioanun{
+	font-size: 70%;
+}
+#minicalendario{
+    background-image: url("../images/calendar.png");
+    float: left;
+    height: 32px;
+    margin-top: 45px;
+    position: absolute;
+    width: 32px;
+}
+#autentica{
+	margin-top: 3%;
+	height: 50%;
+}
+.areas{
+	margin-top: .8%;
+	border-style: solid;
+	border-color: #009EB3;
+	width: 45%;
+	height: 94.5%;
+	margin-left: 1%;
+	float: left;
+	min-width: 256px !important;
+}
+.tippub{
+	color: white;
+	background-color: #009DB5;
+	width: 100%;
+	height: 12%;
+}
+#btn_acceder{
+	margin-top: 2%;
+	border-style: solid;
+	background-color: #009DB5;
+	border-color: #009DB5;
+	font-size: 10pt;
+	margin-left: 38%;
+	color: white;
+	margin-bottom: 2%;
+}
+#btn_acceder:hover{
+	border-color: #00D3EF;
+	background-color: #00D3EF;
+	color: black;
+}
+#btn_ir{
+	margin-top: 2%;
+	width: 30%;
+	height: 15%;
+	border-style: solid;
+	background-color: #009DB5;
+	border-color: #009DB5;
+	font-size: 120%;
+	margin-left: 34%;
+	color: white;	
+}
+#btn_ir:hover{
+	border-color: #00D3EF;
+	background-color: #00D3EF;
+	color: black;
+}
+#frmlogin{
+	border: 1px solid #009DB5;
+	
+}
+.loginpass{
+	margin-top: 3%;
+	border-style: solid;
+}
+.lb_loginpass{
+	
+}
+.lb_loginpass1{
+	
+}

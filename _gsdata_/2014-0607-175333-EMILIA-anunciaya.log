@@ -1,0 +1,20 @@
+2014-06-07 17:53:33: -- anunciaya: ANALYSIS started by On File Change, After Delay on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 17:53:33: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/.subl230.tmp
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/index.php~RFb102c8f.TMP
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/views/publicados/listados.php
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/views/publicados/.subl6c4.tmp
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/index.php
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/views/publicados/.subl66b.tmp
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/views/publicados/listados.php~RFb0f62d6.TMP
+2014-06-07 17:53:33: Change in: C:/wamp/www/anunciosbolivar/views/publicados/listados.php~RFb0fe610.TMP
+2014-06-07 17:53:34: Changes: 2, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-06-07 17:53:34: Right to Left: Copy File: 2 
+2014-06-07 17:53:34: -- Analysis Completed. Time 00:00:01, Speed: 158 files/s
+2014-06-07 17:53:34: == anunciaya: SYNC started by On File Change, After Delay on 'EMILIA'
+2014-06-07 17:53:34: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 17:53:34: Copy Over 'C:/wamp/www/anunciosbolivar/index.php' -> 'Z:/anunciosbolivar/index.php'
+2014-06-07 17:53:34: Copy Over 'C:/wamp/www/anunciosbolivar/views/publicados/listados.php' -> 'Z:/anunciosbolivar/views/publicados/listados.php'
+2014-06-07 17:53:35: Items Synced OK: 2, Errors: 0
+2014-06-07 17:53:35: == Sync Completed. Time: 00:00:01, Speed: 0 bytes/s
+2014-06-07 17:53:35: 

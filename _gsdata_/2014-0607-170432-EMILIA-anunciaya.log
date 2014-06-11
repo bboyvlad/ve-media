@@ -1,0 +1,28 @@
+2014-06-07 17:04:32: -- anunciaya: ANALYSIS started by On File Change, After Delay on 'EMILIA' (GoodSync 9.7.6.6)
+2014-06-07 17:04:32: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/css/estilo.css
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/.subl350.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/css/estilo.css~RFae19a80.TMP
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php~RFae34dbe.TMP
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php~RFae2b518.TMP
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php~RFae2eb3b.TMP
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/.sublb40.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/.subl878.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/css/.subl59a.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php~RFae31345.TMP
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/.subl2ee.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/.sublb36.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/.sublcfd.tmp
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php~RFae24844.TMP
+2014-06-07 17:04:32: Change in: C:/wamp/www/anunciosbolivar/index.php~RFae281d3.TMP
+2014-06-07 17:04:33: Changes: 2, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-06-07 17:04:33: Right to Left: Copy File: 2 
+2014-06-07 17:04:33: -- Analysis Completed. Time 00:00:01, Speed: 158 files/s
+2014-06-07 17:04:33: == anunciaya: SYNC started by On File Change, After Delay on 'EMILIA'
+2014-06-07 17:04:33: Z:\anunciosbolivar (Z:/anunciosbolivar) <-> C:\wamp\www\anunciosbolivar (C:/wamp/www/anunciosbolivar), UberUnlocked, OnFileChangeDelay=60
+2014-06-07 17:04:33: Copy Over 'C:/wamp/www/anunciosbolivar/css/estilo.css' -> 'Z:/anunciosbolivar/css/estilo.css'
+2014-06-07 17:04:33: Copy Over 'C:/wamp/www/anunciosbolivar/index.php' -> 'Z:/anunciosbolivar/index.php'
+2014-06-07 17:04:34: Items Synced OK: 2, Errors: 0
+2014-06-07 17:04:34: == Sync Completed. Time: 00:00:01, Speed: 0 bytes/s
+2014-06-07 17:04:34: 
