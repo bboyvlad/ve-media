@@ -21,9 +21,6 @@
 	</script>
 	<script src="css/unsemantic/assets/javascripts/adapt.min.js"></script>
 </head>
-
-
-
 <body>
 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
